@@ -1,10 +1,10 @@
 === Plugin Name ===
 Contributors: bibichette
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=S5NJZJGQTFKUN
-Tags: admin, administration 
+Tags: admin, administration
 Requires at least: 3.0
 Tested up to: 3.3.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 A very simple plugin which let you know where your site is hosted.
 
@@ -14,7 +14,7 @@ JC Where is a very basic plugin which let you know where your site is hosted. If
 
 This plugin just display the ip address of your host in the footer of your wordpress administration.
 
-[more information on jc-where plugin](http://www.madeby-jc.com/portfolio/jc-where/)
+[more information on jc-where plugin](http://www.netcod.es/)
 
 == Installation ==
 
@@ -32,6 +32,10 @@ Not yet.
 1. The new adminstration footer.
 
 == Changelog ==
+
+= 1.1 =
+
+Change author informations
 
 = 1.0 =
 
